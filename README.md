@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 📫 How to reach me:
+[VK](https://vk.com/id46453265)
 
 <!--
 **1SergeyKorolev1/1SergeyKorolev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
