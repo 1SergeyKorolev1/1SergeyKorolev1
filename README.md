@@ -1,8 +1,12 @@
 ## Hello everyone, my name is Sergey 👋  
 ***
-- 📫 How to reach me: / Как связаться со мной:  
+- 📫 ### How to reach me: / Как связаться со мной:  
    
-[![Alt text](https://sun9-west.userapi.com/sun9-37/s/v1/ig2/A2dCrO5aGF4_b2v-4R7XXEpCcoLIXqdIoK22_Vzk3jB_MYNMe8YETeggFt8bAHscSMbRGoup43k_F-pURem4W-KM.jpg?size=40x40&quality=95&type=album)](https://vk.com/id46453265)
+[![Alt text](https://sun9-west.userapi.com/sun9-37/s/v1/ig2/A2dCrO5aGF4_b2v-4R7XXEpCcoLIXqdIoK22_Vzk3jB_MYNMe8YETeggFt8bAHscSMbRGoup43k_F-pURem4W-KM.jpg?size=40x40&quality=95&type=album)](https://vk.com/id46453265)   
+***  
+- ⚡ ### Technology stack: / Стек технологий:  
+  
+  
 
 <!--
 **1SergeyKorolev1/1SergeyKorolev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
