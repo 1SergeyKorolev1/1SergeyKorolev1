@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 📫 How to reach me:
 [VK](https://vk.com/id46453265)
-[![Alt text](https://e1.pngegg.com/pngimages/307/291/png-clipart-flat-gradient-social-media-icons-vk-256x256x32-vk-logo.png/150x100)](https://vk.com/id46453265)
+[![Alt text](https://e1.pngegg.com/pngimages/307/291/png-clipart-flat-gradient-social-media-icons-vk-256x256x32-vk-logo.png)](https://vk.com/id46453265)
 
 <!--
 **1SergeyKorolev1/1SergeyKorolev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
