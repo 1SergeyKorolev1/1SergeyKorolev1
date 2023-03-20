@@ -4,7 +4,7 @@
 ```html
 
 ```
-https://img.shields.io/aur/last-modified/%D0%B3%D1%83%D0%B3%D0%BB-%D1%85%D1%80%D0%BE%D0%BC
+![AUR last modified](https://img.shields.io/aur/last-modified/%D0%B3%D1%83%D0%B3%D0%BB-%D1%85%D1%80%D0%BE%D0%BC)
 ### 📫 How to reach me: / Как связаться со мной:  
    
 [![VK](https://sun9-west.userapi.com/sun9-37/s/v1/ig2/A2dCrO5aGF4_b2v-4R7XXEpCcoLIXqdIoK22_Vzk3jB_MYNMe8YETeggFt8bAHscSMbRGoup43k_F-pURem4W-KM.jpg?size=40x40&quality=95&type=album)](https://vk.com/id46453265)   
