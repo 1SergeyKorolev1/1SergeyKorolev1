@@ -1,6 +1,9 @@
 ## Hello everyone, my name is Sergey 👋  
 ***
-
+```javascript
+const simple = "Я просто строка!";
+console.log(simple);
+```
 ```html
 
 ```
