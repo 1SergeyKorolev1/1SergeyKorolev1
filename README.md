@@ -2,7 +2,7 @@
 ***
 
 ```html
-<button>*</button>
+
 ```
 
 ### 📫 How to reach me: / Как связаться со мной:  
