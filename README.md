@@ -1,7 +1,7 @@
 ## Hello everyone, my name is Sergey  
 ***
 
-<button style="cursor: cell;">👋</button>
+<button style="cursor: pointer; text-align: center;">👋</button>
 
 ### 📫 How to reach me: / Как связаться со мной:  
    
