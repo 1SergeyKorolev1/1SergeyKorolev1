@@ -1,5 +1,5 @@
 <h1 style="cursor: pointer; text-align: center;">Hello everyone, my name is Sergey👋</h1>  
-***
+
 
 ### 📫 How to reach me: / Как связаться со мной:  
    
