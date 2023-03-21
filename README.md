@@ -1,7 +1,5 @@
-## Hello everyone, my name is Sergey  
+## Hello everyone, my name is Sergey <h1 style="cursor: pointer; text-align: center;">👋</h1>  
 ***
-
-<h1 style="cursor: pointer; text-align: center;">👋</h1>
 
 ### 📫 How to reach me: / Как связаться со мной:  
    
