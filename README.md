@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=1SergeyKorolev1)
+![](https://komarev.com/ghpvc/?username=1SergeyKorolev1)    
 [![codewars](https://www.codewars.com/users/Sergey%20Korolev/badges/large)](https://www.codewars.com/dashboard)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=1SergeyKorolev1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
