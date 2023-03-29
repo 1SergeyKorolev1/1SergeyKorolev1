@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Sergey  </a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center"></a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I'm+Sergey)](https://vk.com/id46453265)</h1>
 
 
 ### 📫 Мои контакты: korolevsergey.veb@yandex.ru
@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1SergeyKorolev1)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I'm+Sergey)](https://vk.com/id46453265)
+
