@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![codewars](https://www.codewars.com/users/Sergey%20Korolev/badges/micro)](https://www.codewars.com/users/Sergey%20Korolev/badges/micro)
+[![codewars](https://www.codewars.com/users/Sergey%20Korolev/badges/large)](https://www.codewars.com/users/Sergey%20Korolev/badges/micro)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=1SergeyKorolev1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
