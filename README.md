@@ -9,7 +9,7 @@
 [![VK](https://sun9-west.userapi.com/sun9-37/s/v1/ig2/A2dCrO5aGF4_b2v-4R7XXEpCcoLIXqdIoK22_Vzk3jB_MYNMe8YETeggFt8bAHscSMbRGoup43k_F-pURem4W-KM.jpg?size=40x40&quality=95&type=album)](https://vk.com/id46453265)
 
 ***  
-### ⚡ Technology stack: / Стек технологий:  
+### ⚡ Стек технологий:  
   
 [![html](https://sun9-east.userapi.com/sun9-36/s/v1/ig2/xqfgeghUShJebRKR-CzIvX4P6_3ybYMqkOOuUQl--dE8jhekG8HpCs4WvJiTfU4ami212f2Z9sL1Lhr7sQW1M_wK.jpg?size=40x40&quality=95&type=album)](https://developer.mozilla.org/ru/docs/Web/HTML) 
 [![css](https://sun9-west.userapi.com/sun9-2/s/v1/ig2/HJf2NF-6AOk8BOg5RTVt7QiATL0IdYDq6HldS1VrhgO3wZ0FULLcc6NOIeJugWkkYkQf-8jItfwVqPHSvm3_PLe_.jpg?size=40x40&quality=95&type=album)](https://developer.mozilla.org/ru/docs/Web/CSS) 
