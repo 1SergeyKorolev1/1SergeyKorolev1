@@ -1,5 +1,6 @@
 
-<h1 align="center"></a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<!-- <h1 align="center"></a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> -->
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I'm+Sergey)](https://vk.com/id46453265)
 
