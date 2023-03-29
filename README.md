@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=1SergeyKorolev1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1SergeyKorolev1)](https://git.io/streak-stats)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1SergeyKorolev1)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1SergeyKorolev1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/Sergey%20Korolev/badges/micro)](https://www.codewars.com/dashboard)
