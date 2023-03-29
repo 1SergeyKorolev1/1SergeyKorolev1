@@ -33,3 +33,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```width:300px|dot
+digraph G {
+  a -> b -> c
+  c -> a
+  b -> d
+}
+```
