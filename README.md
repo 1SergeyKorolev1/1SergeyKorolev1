@@ -38,8 +38,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=1SergeyKorolev1)    
-[![codewars](https://www.codewars.com/users/Sergey%20Korolev/badges/micro)](https://www.codewars.com/dashboard)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=1SergeyKorolev1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -47,4 +45,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1SergeyKorolev1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=1SergeyKorolev1)    
+
+[![codewars](https://www.codewars.com/users/Sergey%20Korolev/badges/micro)](https://www.codewars.com/dashboard)
 
