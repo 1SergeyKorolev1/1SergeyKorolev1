@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/Sergey%20Korolev)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=1SergeyKorolev1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1SergeyKorolev1)](https://git.io/streak-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1SergeyKorolev1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
