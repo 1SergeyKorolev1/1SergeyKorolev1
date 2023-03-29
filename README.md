@@ -2,8 +2,8 @@
 <h1 align="center">Hi there, I'm Sergey  </a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
-### 📫 How to reach me: / Как связаться со мной:  
-[![VK](https://sun9-west.userapi.com/sun9-37/s/v1/ig2/A2dCrO5aGF4_b2v-4R7XXEpCcoLIXqdIoK22_Vzk3jB_MYNMe8YETeggFt8bAHscSMbRGoup43k_F-pURem4W-KM.jpg?size=40x40&quality=95&type=album)](https://vk.com/id46453265)  ||  korolevsergey.veb@yandex.ru
+### 📫 How to reach me: / Как связаться со мной: korolevsergey.veb@yandex.ru
+[![VK](https://sun9-west.userapi.com/sun9-37/s/v1/ig2/A2dCrO5aGF4_b2v-4R7XXEpCcoLIXqdIoK22_Vzk3jB_MYNMe8YETeggFt8bAHscSMbRGoup43k_F-pURem4W-KM.jpg?size=40x40&quality=95&type=album)](https://vk.com/id46453265)
 
 ***  
 ### ⚡ Technology stack: / Стек технологий:  
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![codewars](https://www.codewars.com/users/Sergey%20Korolev/badges/large)](https://www.codewars.com/users/Sergey%20Korolev/badges/micro)
+[![codewars](https://www.codewars.com/users/Sergey%20Korolev/badges/large)](https://www.codewars.com/dashboard)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=1SergeyKorolev1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
