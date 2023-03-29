@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Sergey  </a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
-### 📫 How to reach me: / Как связаться со мной: korolevsergey.veb@yandex.ru
+### 📫 Мои контакты: korolevsergey.veb@yandex.ru
 [![VK](https://sun9-west.userapi.com/sun9-37/s/v1/ig2/A2dCrO5aGF4_b2v-4R7XXEpCcoLIXqdIoK22_Vzk3jB_MYNMe8YETeggFt8bAHscSMbRGoup43k_F-pURem4W-KM.jpg?size=40x40&quality=95&type=album)](https://vk.com/id46453265)
 
 ***  
@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1SergeyKorolev1)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://vk.com/id46453265)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I'm+Sergey)](https://vk.com/id46453265)
