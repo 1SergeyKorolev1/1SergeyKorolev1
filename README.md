@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, I'm Sergey👋</a></h1>
+<h1 align="center">Hi there, I'm <a href="[https://daniilshat.ru/](https://vk.com/id46453265)" target="_blank">Sergey</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
 ### 📫 How to reach me: / Как связаться со мной:  
