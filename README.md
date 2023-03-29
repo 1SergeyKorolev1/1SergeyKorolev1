@@ -1,5 +1,4 @@
-<h1 style="text-align: center">Hello everyone, my name is Sergey👋</h1>
-<h1 align="center">Hi there, I'm <a href="[https://daniilshat.ru/](https://vk.com/id46453265)" target="_blank">Sergey👋</a> 
+<h1 align="center">Hi there, I'm <a href="[https://daniilshat.ru/](https://vk.com/id46453265)" target="_blank">Sergey👋</a></h1>
 
 
 ### 📫 How to reach me: / Как связаться со мной:  
