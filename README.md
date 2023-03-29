@@ -5,8 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I'm+Sergey+Korolev)](https://vk.com/id46453265)
 ***
 
-### 📫 Мои контакты: korolevsergey.veb@yandex.ru
+### 📫 Мои контакты:
 [![VK](https://sun9-west.userapi.com/sun9-37/s/v1/ig2/A2dCrO5aGF4_b2v-4R7XXEpCcoLIXqdIoK22_Vzk3jB_MYNMe8YETeggFt8bAHscSMbRGoup43k_F-pURem4W-KM.jpg?size=40x40&quality=95&type=album)](https://vk.com/id46453265)
+[![почта](korolevsergey.veb@yandex.ru)](https://sun9-21.userapi.com/impg/yX9vgkHb7q3P4eVW23oplFG8b8m3fng1kO_wHg/bx-2je8i1u8.jpg?size=40x40&quality=95&sign=480d62fec9e8ea80637ecfe621537dae&type=album)
 
 ***  
 ### ⚡ Стек технологий:  
