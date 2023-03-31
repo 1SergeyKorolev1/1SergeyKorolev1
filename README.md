@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I'm+Sergey+Korolev)](https://vk.com/id46453265)
 
-
 ### ❤ Что я Люблю в разработке:
 * Люблю чистый код 
 * Возможность к работе относиться как к творчеству
