@@ -2,6 +2,11 @@
 <!-- <h1 align="center"></a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> -->
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
+Что я Люблю в разработке:
+* Люблю чистый код 
+    + Возможность к работе относиться как к творчеству
+        - Люблю создавать новые проекты, воплощать их в жизнь, мечтаю увидеть, как они помогут сотням/тысячам и даже миллионам людей
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I'm+Sergey+Korolev)](https://vk.com/id46453265)
 ***
 
