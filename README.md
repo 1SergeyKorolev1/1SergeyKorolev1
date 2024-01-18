@@ -24,8 +24,7 @@
 [![react](https://sun9-west.userapi.com/sun9-8/s/v1/ig2/yuVEeutVObfGb3jwNXBO_n4UEGdWLhNb4d9T0xyMCcWn-FIH5AupeCzsZHb2IIAKr1WAMC0BgB6VjtO59HZi2x-P.jpg?size=40x40&quality=95&type=album)](https://clck.ru/33CCbf) 
 [![node and express](https://sun9-east.userapi.com/sun9-25/s/v1/ig2/ZVINgMoh9Jq8qUVrh2MCs5UfiWE7GhXeLVOV8mC2USPy9aAwkW_KKiq79qWiFnNgG8cVMkIJe5HFb1aRf0JRqln-.jpg?size=160x40&quality=95&type=album)](https://clck.ru/33CCeg)   
   
-[![git](https://sun9-east.userapi.com/sun9-20/s/v1/ig2/tG-2B83cN6OyUtgpT86fJf2JT9ILnuPCZNGkeSfWJ6p9KmeqqeNA51NesnmHvaxsjU74l_zh7bKDhHj1FH1IbvD0.jpg?size=160x40&quality=95&type=album)](https://clck.ru/33CCd7)   
-  
+[![git](https://sun9-east.userapi.com/sun9-20/s/v1/ig2/tG-2B83cN6OyUtgpT86fJf2JT9ILnuPCZNGkeSfWJ6p9KmeqqeNA51NesnmHvaxsjU74l_zh7bKDhHj1FH1IbvD0.jpg?size=160x40&quality=95&type=album)](https://clck.ru/33CCd7) 
 [![mongoDB](https://sun9-west.userapi.com/sun9-15/s/v1/ig2/D1NJ1VzVInioCwPsAtEZdtpUZqkhGZVDh_q6Xs3gNgY9NjzrdlTWuYD6cKvxxDR56ZBjGcROIoHV3YhiorN1rH6w.jpg?size=160x40&quality=95&type=album)](https://clck.ru/33CCfY)   
 
 [![mongoDB](https://sun9-49.userapi.com/impg/g_NubKRwCasxjlE3iqCaJKqu347oQL7Mh9Azzw/1bgeGHhulRg.jpg?size=160x40&quality=95&sign=fbb14fbedb5e9e740eff5ce07fece157&type=album)](https://clck.ru/33CCfY)
