@@ -29,7 +29,8 @@
 
 [![mongoDB](https://sun9-49.userapi.com/impg/g_NubKRwCasxjlE3iqCaJKqu347oQL7Mh9Azzw/1bgeGHhulRg.jpg?size=160x40&quality=95&sign=fbb14fbedb5e9e740eff5ce07fece157&type=album)](https://clck.ru/33CCfY)
 [<img src="https://habrastorage.org/getpro/habr/post_images/1d5/28e/2cb/1d528e2cb5fbc29ad16c74e5d883c371.png" width="120" height="40">](https://developer.mozilla.org/ru/docs/Learn/Server-side/Django)  
-[<img src="https://media.licdn.com/dms/image/D5612AQHJalFr7nO_xA/article-cover_image-shrink_720_1280/0/1710173183065?e=2147483647&v=beta&t=C12HJKMV9ILwuuUfLBYGUrf6bDl_59E9IkFQ7Fi5eck" width="200" height="80">](https://pypi.org/project/djangorestframework/)
+  
+[<img src="https://media.licdn.com/dms/image/D5612AQHJalFr7nO_xA/article-cover_image-shrink_720_1280/0/1710173183065?e=2147483647&v=beta&t=C12HJKMV9ILwuuUfLBYGUrf6bDl_59E9IkFQ7Fi5eck" width="220" height="80">](https://pypi.org/project/djangorestframework/)
 ***
 
 <!--
