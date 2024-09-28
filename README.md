@@ -28,6 +28,7 @@
 [![mongoDB](https://sun9-west.userapi.com/sun9-15/s/v1/ig2/D1NJ1VzVInioCwPsAtEZdtpUZqkhGZVDh_q6Xs3gNgY9NjzrdlTWuYD6cKvxxDR56ZBjGcROIoHV3YhiorN1rH6w.jpg?size=160x40&quality=95&type=album)](https://clck.ru/33CCfY)   
 
 [![mongoDB](https://sun9-49.userapi.com/impg/g_NubKRwCasxjlE3iqCaJKqu347oQL7Mh9Azzw/1bgeGHhulRg.jpg?size=160x40&quality=95&sign=fbb14fbedb5e9e740eff5ce07fece157&type=album)](https://clck.ru/33CCfY)
+<img src="https://habrastorage.org/getpro/habr/post_images/1d5/28e/2cb/1d528e2cb5fbc29ad16c74e5d883c371.png" width="160" height="40">
 ***
 
 <!--
